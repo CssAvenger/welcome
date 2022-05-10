@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="203" viewBox="0 0 516 203">
+  <g id="Group_644" data-name="Group 644" transform="translate(-1021 -586)">
+    <rect id="Rectangle_450" data-name="Rectangle 450" width="230" height="173" rx="20" transform="translate(1021 586)" fill="#aaddf5"/>
+    <path id="Rectangle_460" data-name="Rectangle 460" d="M20,0h95a0,0,0,0,1,0,0V173a0,0,0,0,1,0,0H20A20,20,0,0,1,0,153V20A20,20,0,0,1,20,0Z" transform="translate(1422 586)" fill="#e1f4fd"/>
+    <path id="Path_879" data-name="Path 879" d="M7.5,0h77a7.5,7.5,0,0,1,0,15H7.5a7.5,7.5,0,0,1,0-15Z" transform="translate(1090 774)" fill="#aaddf5"/>
+    <path id="Rectangle_462" data-name="Rectangle 462" d="M7.5,0H46a0,0,0,0,1,0,0V15a0,0,0,0,1,0,0H7.5A7.5,7.5,0,0,1,0,7.5v0A7.5,7.5,0,0,1,7.5,0Z" transform="translate(1491 774)" fill="#e1f4fd"/>
+    <rect id="Rectangle_452" data-name="Rectangle 452" width="188" height="132" rx="10" transform="translate(1042 607)" fill="#fff"/>
+    <path id="Rectangle_461" data-name="Rectangle 461" d="M10,0H94a0,0,0,0,1,0,0V132a0,0,0,0,1,0,0H10A10,10,0,0,1,0,122V10A10,10,0,0,1,10,0Z" transform="translate(1443 607)" fill="#fff"/>
+    <rect id="Rectangle_453" data-name="Rectangle 453" width="129" height="14" rx="7" transform="translate(1072 639)" fill="#aaddf5"/>
+    <path id="Rectangle_463" data-name="Rectangle 463" d="M7,0H59a0,0,0,0,1,0,0V14a0,0,0,0,1,0,0H7A7,7,0,0,1,0,7V7A7,7,0,0,1,7,0Z" transform="translate(1478 639)" fill="#aaddf5"/>
+    <path id="Rectangle_464" data-name="Rectangle 464" d="M7,0H59a0,0,0,0,1,0,0V14a0,0,0,0,1,0,0H7A7,7,0,0,1,0,7V7A7,7,0,0,1,7,0Z" transform="translate(1478 668)" fill="#aaddf5"/>
+    <path id="Rectangle_465" data-name="Rectangle 465" d="M7,0H59a0,0,0,0,1,0,0V14a0,0,0,0,1,0,0H7A7,7,0,0,1,0,7V7A7,7,0,0,1,7,0Z" transform="translate(1478 696)" fill="#aaddf5"/>
+    <rect id="Rectangle_454" data-name="Rectangle 454" width="90" height="14" rx="7" transform="translate(1072 666)" fill="#aaddf5"/>
+    <rect id="Rectangle_455" data-name="Rectangle 455" width="121" height="14" rx="7" transform="translate(1072 693)" fill="#aaddf5"/>
+    <rect id="Rectangle_456" data-name="Rectangle 456" width="15" height="31" rx="7.5" transform="translate(1260 658)" fill="#fff7d8"/>
+    <rect id="Rectangle_457" data-name="Rectangle 457" width="15" height="31" rx="7.5" transform="translate(1282 657)" fill="#fff7d8"/>
+    <rect id="Rectangle_458" data-name="Rectangle 458" width="15" height="31" rx="7.5" transform="translate(1304 657)" fill="#fff7d8"/>
+    <rect id="Rectangle_459" data-name="Rectangle 459" width="15" height="31" rx="7.5" transform="translate(1326 657)" fill="#fff7d8"/>
+    <path id="Polygon_10" data-name="Polygon 10" d="M42.109,12.2a11,11,0,0,1,17.781,0l29.376,40.32A11,11,0,0,1,80.376,70H21.624a11,11,0,0,1-8.891-17.477Z" transform="translate(1418 623) rotate(90)" fill="#fed337"/>
+  </g>
+</svg>
