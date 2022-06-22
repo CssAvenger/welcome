@@ -1,0 +1,30 @@
+{
+    "code": 200,
+    "status": "success",
+    "response": {
+        "isValid": "Yes",
+        "license_plate": "HR26BV6464",
+        "owner_name": "PUNITA RAJPAL",
+        "financer": "TATA CAPITAL FINANCIAL SERVICES LTD",
+        "insurance_company": "RELIANCE GENERAL INSURANCE CO. LTD.",
+        "insurance_policy": "OG-18-9906-1801-0010561F7",
+        "model": "DUSTER DIESEL",
+        "class": "MOTOR CAR(LMV)",
+        "registration_date": "2012-11-21",
+        "vehicle_age": "9 years 7 months",
+        "insurance_expiry": "2022-01-18",
+        "pollution_expiry": "2022-01-22",
+        "chassis_number": "MEEHSRA36C9006812",
+        "engine_number": "K9KJ886D007522",
+        "fuel_type": "DIESEL",
+        "brand_name": "RENAULT",
+        "brand_model": "DUSTER",
+        "seating_capacity": "",
+        "cubic_capacity": "",
+        "fitness_upto": "null",
+        "wheel_count": "null",
+        "rto_code": "HR26",
+        "rto": "GURGAON",
+        "state": "HARYANA"
+    }
+}
